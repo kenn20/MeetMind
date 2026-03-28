@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.railtracks/
+.sisyphus/
+meetmind/web/uploads/
+opencode.json
+api-1.json
